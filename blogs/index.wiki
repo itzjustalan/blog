@@ -1,5 +1,0 @@
-==Blogs==
-
-[[2021/index|2021]]
-
-[[/itzjustalan|go home]]
