@@ -1,0 +1,6 @@
+==Blogs==
+
+[[february/index|february]]
+[[october/index|october]]
+
+[[/itzjustalan|go home]]
